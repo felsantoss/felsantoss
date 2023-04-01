@@ -6,7 +6,7 @@ Born in Brazil 🟢🟡 <br>
 
 Living in Campinas, São Paulo. 🏡 <br>
 
-Leaning HTML, CSS, JavaScript, Git and Github. 👩‍💻 <br>
+Leaning HTML, CSS, JavaScript, C#, Git and Github. 👩‍💻 <br>
 
 Studying System Analysis and Development at UNIP. 📚 <br>
 
